@@ -1,2 +1,2 @@
 # Extra-o-de-Dados-Ecommerce
-Projeto realizado em Python onde é possível realizar a extração de dados relevantes por meio de uma API pública
+Projeto desenvolvido em Python que realiza a extração de dados relevantes de produtos por meio de uma API pública e gera automaticamente um relatório em Excel.
